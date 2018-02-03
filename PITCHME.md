@@ -48,7 +48,7 @@ Bootstrap Bundleを追加すると・・・
 使い方
 ---
 ツール→拡張機能と更新プログラム  
-を選択し
+を選択し  
 <img src="assets/006.png"/>  
 ---
 「Bootstrap Bundle」を検索。  
