@@ -25,8 +25,6 @@
 　  
 **趣味**：リアル脱出ゲーム
 ---
-（作成中）
----
 今回、ご紹介するのは、Visual Studioプラグインの「BootstrapBundle」についてです。
 <img src="assets/001.png"/>  
 http://www.bootstrapbundle.com/
