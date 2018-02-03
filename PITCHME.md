@@ -1,8 +1,17 @@
+<!--
 ### ASP.Net MVC BootstrapBundleは<br>どうでしょう？
 　  
 ASP.Net MVC BootstrapBundleは<br>どうでしょう？
+-->
+<h3 style="text-transform:none;">ASP.Net MVC BootstrapBundleは<br>どうでしょう？</h3>
 
-　  
+
+
+<h3 style="text-transform:none;">aBc 置換されない</h3>
+<h3 style="text-transform:capitalize;">aBa 先頭を大文字に変換</h3>
+<h3 style="text-transform:uppercase;">aBc 全て大文字に変換</h3>
+<h3 style="text-transform:lowercase;">aBc 全て小文字に変換</h3>
+　
 　  
 　  
 　　　　id:kakisoft
