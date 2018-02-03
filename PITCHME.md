@@ -58,10 +58,10 @@ Bootstrap Bundleを追加すると・・・
 「Bootstrap Bundle」が追加されます。
 <img src="assets/008.png"/>  
 ---
-テーマを選択し・・・
+レイアウトを選択し・・・
 <img src="assets/009.png"/>  
 ---
-カラーを選択すると・・・
+テーマを選択すると・・・
 <img src="assets/010.png"/>  
 ---
 この通り。
