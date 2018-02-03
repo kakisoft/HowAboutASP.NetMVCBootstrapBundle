@@ -27,6 +27,17 @@
 ---
 （作成中）
 ---
+こんなのとか
+<img src="assets/001.png"/>  
+---
+こんなのとか
+<img src="assets/002.png"/>  
+---
+こんなのが
+<img src="assets/003.png"/>  
+---
+<img src="assets/004.png"/>  
+---
 <img src="assets/wh.png"/>  
 ---
 このスライドの作成に、  
