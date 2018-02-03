@@ -1,16 +1,13 @@
-<!--
-### ASP.Net MVC BootstrapBundleは<br>どうでしょう？
-　  
-ASP.Net MVC BootstrapBundleは<br>どうでしょう？
--->
 <h3 style="text-transform:none;">ASP.Net MVC BootstrapBundleは<br>どうでしょう？</h3>
+<!--
+本当は、
+「### タイトル」
+って書きたいんだけど、それだと全部大文字になっちゃうんだよ。
+設定でどうにかできるかもしれないけど、分からなかったから、こうした。
+-->
 
 
 
-<h3 style="text-transform:none;">aBc 置換されない</h3>
-<h3 style="text-transform:capitalize;">aBa 先頭を大文字に変換</h3>
-<h3 style="text-transform:uppercase;">aBc 全て大文字に変換</h3>
-<h3 style="text-transform:lowercase;">aBc 全て小文字に変換</h3>
 　
 　  
 　  
@@ -21,6 +18,8 @@ ASP.Net MVC BootstrapBundleは<br>どうでしょう？
 **名前**：垣花　暁（かきのはな　さとる）    
 　  
 **出身**：沖縄県  
+　  
+**所属**：フリーランス  
 　  
 **仕事**：物流系エンジニア  
 .NET/Java/Oracleがメイン。  
